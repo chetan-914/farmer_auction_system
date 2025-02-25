@@ -31,7 +31,6 @@ A web-based auction platform connecting farmers directly with customers, allowin
 farmer-auction/
 ├── app.py                 # Main application file with routes and controllers
 ├── models.py              # Database models and relationships
-├── static/                # Static files (CSS, JS, images)
 ├── templates/             # HTML templates
 │   ├── farmer/            # Farmer-specific templates
 │   ├── customer/          # Customer-specific templates
@@ -51,7 +50,7 @@ farmer-auction/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/chetan-914/farmer_auction_system.git
    cd farmer-auction
    ```
 
